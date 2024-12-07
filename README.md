@@ -112,6 +112,9 @@ urlpatterns = [
 
 
 # HOMEPAGE:
+
+![IR input](https://github.com/user-attachments/assets/a685adaf-41b7-4b20-8d27-98a1819c7603)
+
  ![ir pink new](https://github.com/user-attachments/assets/25d61594-1625-4dcc-b5a3-371e183392d4)
 
 # RESULT:
